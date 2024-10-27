@@ -1,1 +1,1 @@
--> preview contents in coe section of main readme and be sure to implement in terminal before usage
+-> preview contents in code section of main readme and be sure to implement in terminal before usage
