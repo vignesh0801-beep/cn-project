@@ -18,3 +18,5 @@ pip install mediapipe(or reccomended to update existing python version)
 ->services-> send an sms
 ->get a trial phone no(be sure to copy auth token)
 ->create addition function sendsms():
+
+*note* need to update auth token each time
